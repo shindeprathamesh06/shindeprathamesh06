@@ -45,25 +45,18 @@
   <img src="https://skillicons.dev/icons?i=java,js,html,css"/>
 </p>
 
-<h3>⚙️ Backend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,maven,gradle"/>
+<h3>⚙️ Backend & Tools</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="48" alt="Hibernate"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle Database"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="48" alt="Postman"/>
 </p>
 
 <p>
-<img src="https://cdn.simpleicons.org/springsecurity/6DB33F" height="48" alt="Spring Security"/>
-<img src="https://cdn.simpleicons.org/hibernate/59666C" height="48" alt="Hibernate"/>
-<img src="https://cdn.simpleicons.org/oracle/F80000" height="48" alt="Oracle Database"/>
-<img src="https://cdn.simpleicons.org/postman/FF6C37" height="48" alt="Postman"/>
-</p>
-
-<p>
-Spring MVC • REST APIs • JPA • JDBC • Servlet • JSP • Thymeleaf
-</p>
-
-<h3>🗄️ Database</h3>
-<p>
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="48" alt="Oracle Database"/>
+<strong>Also Experienced In:</strong><br>
+Spring MVC • Spring Security • REST APIs • JPA • JDBC • Servlet • JSP • Thymeleaf
 </p>
 
 <h3>🧰 Tools & IDEs</h3>
