@@ -14,9 +14,15 @@
 
 <!-- Stats Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shindeprathamesh06&style=for-the-badge&color=7C3AED"/>
-  <img src="https://img.shields.io/github/followers/shindeprathamesh06?style=for-the-badge&color=F97316"/>
-  <img src="https://img.shields.io/github/stars/shindeprathamesh06?style=for-the-badge&color=EAB308"/>
+  <img src="https://komarev.com/ghpvc/?username=shindeprathamesh06&style=for-the-badge&color=blue"/>
+
+  <a href="https://github.com/shindeprathamesh06?tab=followers">
+    <img src="https://img.shields.io/github/followers/shindeprathamesh06?label=Followers&style=for-the-badge"/>
+  </a>
+
+  <a href="https://github.com/shindeprathamesh06">
+    <img src="https://img.shields.io/badge/Public%20Repos-View%20Profile-success?style=for-the-badge"/>
+  </a>
 </p>
 
 <hr/>
