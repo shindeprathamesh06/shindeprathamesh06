@@ -97,7 +97,7 @@ Spring Tool Suite (STS)
 <h2>🧩 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/prathmeshshinde006?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcode.com/u/vNdwAJNz1H?theme=dark&font=Karma&ext=contest" />
 </p>
 
 
