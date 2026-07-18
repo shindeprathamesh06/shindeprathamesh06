@@ -11,6 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Spring+Boot+Developer;Building+Real+World+Projects;REST+API+Developer;Hibernate+%26+JPA+Developer;LeetCode+Problem+Solver"/>
 </p>
 
+
 <!-- Stats Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shindeprathamesh06&style=for-the-badge&color=7C3AED"/>
@@ -92,6 +93,13 @@ Spring Tool Suite (STS)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shindeprathamesh06&theme=onedark&row=2&column=4"/>
 </p>
+
+<h2>🧩 LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prathmeshshinde006?theme=dark&font=Karma&ext=contest" />
+</p>
+
 
 <hr/>
 
